@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adzhan-farhan.vercel.app/](https://adzhan-farhan.vercel.app/)
 
-- 💬 Ask me about **MERN, Flutter, Kotlin, Laravel**
+- 💬 Ask me about **JavaScript, PHP, Python, Java, Dart**
 
 - 📫 How to reach me **adzhanfarhan@gmail.com**
 
