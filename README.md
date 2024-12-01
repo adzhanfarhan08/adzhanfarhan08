@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently exploring **JavaScript, PHP, Python, Java, Dart**
 
-- 🌱 I’m currently learning **Cybersecurity, Fullstack Web Developer, Mobile Developer**
+- 🌱 I’m currently learning **Cybersecurity, Fullstack Developer, and Mobile Developer**
 
 - 👨‍💻 All of my projects are available at [https://adzhan-farhan.vercel.app/](https://adzhan-farhan.vercel.app/)
 
