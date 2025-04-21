@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
 
-- 🔭 I’m currently exploring **JavaScript, PHP, Python, Java, Dart**
+- 🔭 I’m currently exploring **JavaScript, PHP, Python, Java, Kotlin, Dart**
 
 - 🌱 I’m currently learning **Cybersecurity, Fullstack Developer, and Mobile Developer**
 
