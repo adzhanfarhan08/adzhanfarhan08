@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Fullstack Developer, and Mobile Developer**
 
-- 👨‍💻 All of my projects are available at [https://adzhan-farhan.vercel.app/](https://adzhan-farhan.vercel.app/)
-
 - 💬 Ask me about **JavaScript, PHP, Python, Java, Dart**
 
 - 📫 How to reach me **adzhanfarhan@gmail.com**
