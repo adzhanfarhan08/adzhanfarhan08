@@ -2,7 +2,7 @@
 
 ## Personal
 
-### [Ansible Server Automation](https://github.com/adzhanfarhan08/ansible-ubuntu-server-setup)
+### [Ansible Server Automation](../docs/project/ansible.md)
 
 Tech Stack: YAML
 
