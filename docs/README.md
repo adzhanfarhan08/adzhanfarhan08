@@ -2,23 +2,23 @@
 
 ## Personal
 
-### Bot
+### 🤖 Bot
 
 - [Budgeting Excel Bot](https://github.com/adzhanfarhan08/budgeting-excel-bot)
 
-### DevOps
+### 🔄 DevOps
 
 - [Ansible Server Automation](../docs/project/ansible.md)
 
-### Mobile Development
+### 📱 Mobile Development
 
 - [App Schedule](https://github.com/adzhanfarhan08/schedule)
 
-### Security
+### 🔒 Security
 
 - [Password Generator](https://github.com/adzhanfarhan08/password-generator)
 
-### Tools
+### 🛠️ Tools
 
 - [Auto Install Software Package](https://github.com/adzhanfarhan08/auto-install-software-package)
 - [Delete All Watch Later in YouTube](https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube)
@@ -32,7 +32,7 @@
 
 ## Office
 
-### Automation
+### ⚙️ Automation
 
 - [DSI Automate Installer](https://github.com/adzhanfarhan08/dsi-automate-installer)
 - [DSI Version Delete](https://github.com/adzhanfarhan08/dsi-version-checking-delete)
