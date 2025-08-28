@@ -1,3 +1,3 @@
 # Project
 
-- Ansible Server Automation [Server](https://github.com/adzhanfarhan08/ansible-ubuntu-server-setup)
+- [Ansible Server Automation](https://github.com/adzhanfarhan08/ansible-ubuntu-server-setup)
