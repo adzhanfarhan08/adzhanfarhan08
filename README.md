@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Adzhan Farhan P</h1>
-<h3 align="center">A passionate about technology from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Adzhan Farhan</h1>
+<h3 align="center">Holaa, I am a Software Engineer who has a passion for technology research.</h3>
+
+<img align="right" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" alt="adzhanfarhan08" /></p>
 
 <h2>Ongoing project</h2>
 (Forecast Management System)[https://github.com/adzhanfarhan08/forecast]
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" alt="adzhanfarhan08" /></p>
+<h2>Project</h2>
+- (Delete All Watch Later in Youtube)[https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube]
 
-<img align="right" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
+- (Password Generator)[https://github.com/adzhanfarhan08/password-generator}
+
+<h2>Overview Tech Stack</h2>
 
 - 🔭 I’m currently exploring **JavaScript, PHP, Python, Java, Kotlin, Dart**
 
