@@ -7,7 +7,7 @@
 
 <h2>Ongoing project</h2>
 
-- Forecast Management System [https://github.com/adzhanfarhan08/forecast](https://github.com/adzhanfarhan08/forecast-management-system]
+- Forecast Management System [https://github.com/adzhanfarhan08/forecast-management-system]
 
 <h2>Project</h2>
 
