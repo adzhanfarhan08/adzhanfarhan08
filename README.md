@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Adzhan Farhan</h1>
-<h3 align="center">Holaa, I am a Software Engineer who has a passion for technology research.</h3>
+<h1 align="center">Hi 👋, It's me Farhan & I am RND Software Engineer</h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" alt="adzhanfarhan08" /></p>
-<img align="right" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" width="150px" alt="adzhanfarhan08" /></p>
+<img align="center" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
 
 <h2>Ongoing project</h2>
 
@@ -17,13 +16,23 @@
 
 <h2>Overview Tech Stack</h2>
 
-- Mobile : React Native
+- 🖥 Desktop :
+  - C#
 
-- 🔭 I’m currently exploring **JavaScript, PHP, Python, Java, Kotlin, Dart**
+- 🌐 Web :
+  - JavaScript (ReactJS, NextJS)
+  - PHP (Laravel)
 
-- 🌱 I’m currently learning **Cybersecurity, Fullstack Developer, and Mobile Developer**
+- Server :
+  - Ansible
+  - Bash Script
+  - Docker
+  - Python
 
-- 💬 Ask me about **JavaScript, PHP, Python, Java, Dart**
+- 📱 Mobile :
+  - JavaScript (React Native)
+
+- 💬 Ask me about **New project and anythin about technology**
 
 - 📫 How to reach me **adzhanfarhan@gmail.com**
 
