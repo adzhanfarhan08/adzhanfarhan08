@@ -9,7 +9,7 @@
 
 - Forecast Management System (https://github.com/adzhanfarhan08/forecast-management-system)
 
-<h2>Project</h2>
+<h2>Open Source Project</h2>
 
 - Delete All Watch Later in Youtube (https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube)
 
