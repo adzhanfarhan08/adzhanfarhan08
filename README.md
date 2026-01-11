@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi 👋, It's me Farhan & I am RND Software Engineer</h1>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" width="150px" alt="adzhanfarhan08" /></p>
-<img align="center" src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
+<div align="center">
+  <h1>Hi 👋, It's me Farhan & I am RND Software Engineer</h1>
+  
+  <p><img src="https://komarev.com/ghpvc/?username=adzhanfarhan08&label=Profile%20views&color=0e75b6&style=flat" width="150px" alt="adzhanfarhan08" /></p>
+  <img src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
+</div>
 
 <h2>Ongoing project</h2>
 
@@ -36,4 +38,6 @@
 
 - 📫 How to reach me **adzhanfarhan@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adzhanfarhan08&" alt="adzhanfarhan08" /></p>
+<div align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adzhanfarhan08&" alt="adzhanfarhan08" /></p>
+</div>
