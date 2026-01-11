@@ -20,6 +20,9 @@
 
 - 🖥 Desktop :
   - C#
+    - WPF
+  - Python
+    - TKinter
 
 - 🌐 Web :
   - JavaScript (ReactJS, NextJS)
