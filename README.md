@@ -29,8 +29,8 @@
 |             | JavaScript    | ReactJS, NextJS | VS Code                 |
 |             | PHP           | Laravel         | VS Code                 |
 |             | Pyton         | Flask           | VS Code                 |
-| Database    | MySQL         |                 | VS Code                 |
-|             | PostgreSQL    |                 | VS Code                 |
+| Database    | MySQL         |                 |                         |
+|             | PostgreSQL    |                 |                         |
 
 <h3>DevOps</h3>
 
