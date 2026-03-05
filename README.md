@@ -15,27 +15,36 @@
 - [Delete All Watch Later in Youtube](https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube)
 - [Password Generator](https://github.com/adzhanfarhan08/password-generator)
 
-<h2>Overview Tech Stack</h2>
+<h2>Overview Skills</h2>
 
 <h3>Full-Stack</h3>
 
-| Platform | Language   | Tech-Stack      |
-| -        | -          | -               |
-| Desktop  | C#         | WPF             |
-|          | Python     | Tkinter         |
-| Mobile   | Kotlin     | Kotlin          |
-|          | JavaScript | React Native    |
-| Web      | Java       | Spring Boot     |
-|          | JavaScript | ReactJS, NextJS |
-|          | PHP        | Laravel         |
-|          | Pyton      | Flask           |
+| Platform    | Language      | Tech-Stack      | Tools                   | 
+| -           | -             | -               | -                       |
+| Desktop     | C#            | WPF             | Microsoft Visual Studio |
+|             | Python        | Tkinter         |                         |
+| Mobile      | Kotlin        | Kotlin          | Android Studio          |
+|             | JavaScript    | React Native    |                         |
+| Web         | Java          | Spring Boot     |                         |
+|             | JavaScript    | ReactJS, NextJS |                         |
+|             | PHP           | Laravel         |                         |
+|             | Pyton         | Flask           |                         |
+| Database    | MySQL         |                 |                         |
+|             | PostgreSQL    |                 |                         |
+
+<h3>DevOps</h3>
+| Platform    | Tools                      | Language                               | Description
+| -           | -                          | -                                      | -                                      |
+| Server      | Ansible, Ansible Semaphore |                                        |
+|             | Bash Script                |                                        |
+|             | Docker                     |                                        |
+|             | Security                   |                                        | Fail2Ban, Firewall, NodeJS, Nginx, SSH |
+|             |                            | Python                                 |
 
 <h3>Database</h3>
 
 | Platform   |
 | -          |
-| MySQL      |
-| PostgreSQL |
 
 <h3>DevOps</h3>
 
