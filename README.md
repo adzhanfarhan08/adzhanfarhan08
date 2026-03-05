@@ -32,12 +32,12 @@
 
 <h3>DevOps</h3>
 
-| Platform | Language    |
-| -        | -           |
-| Server   | Ansible     |
-|          | Bash Script |
-|          | Docker      |
-|          | Python      |
+| Platform | Tools                      |
+| -        | -                          |
+| Server   | Ansible, Ansible Semaphore |
+|          | Bash Script                |
+|          | Docker                     |
+|          | Python                     |
 
 - 💬 Ask me about **New project and anythin about technology**
 - 📫 How to reach me **adzhanfarhan@gmail.com**
