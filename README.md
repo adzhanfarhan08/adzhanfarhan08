@@ -17,6 +17,10 @@
 - Password Generator (https://github.com/adzhanfarhan08/password-generator)
 
 <h2>Overview Tech Stack</h2>
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Desktop  | Framework|
+
 
 - 🖥 Desktop :
   - C#
