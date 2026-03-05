@@ -25,19 +25,27 @@
 |          | Python     | Tkinter         |
 | Mobile   | Kotlin     | Kotlin          |
 |          | JavaScript | React Native    |
-| Web      | Java       | Sprint Boot     |
+| Web      | Java       | Spring Boot     |
 |          | JavaScript | ReactJS, NextJS |
 |          | PHP        | Laravel         |
 |          | Pyton      | Flask           |
 
+<h3>Database</h3>
+
+| Platform   |
+| -          |
+| MySQL      |
+| PostgreSQL |
+
 <h3>DevOps</h3>
 
-| Platform | Tools                      |
-| -        | -                          |
-| Server   | Ansible, Ansible Semaphore |
-|          | Bash Script                |
-|          | Docker                     |
-|          | Python                     |
+| Platform | Tools                      | Detail          |
+| -        | -                          |                 |
+| Server   | Ansible, Ansible Semaphore |                 |
+|          | Bash Script                |                 |
+|          | Docker                     |                 |
+|          | Security                   | Fail2Ban, Nginx |
+|          | Python                     |                 |
 
 - 💬 Ask me about **New project and anythin about technology**
 - 📫 How to reach me **adzhanfarhan@gmail.com**
