@@ -33,6 +33,7 @@
 |             | PostgreSQL    |                 |                         |
 
 <h3>DevOps</h3>
+
 | Platform    | Tools                      | Language                               | Description
 | -           | -                          | -                                      | -                                      |
 | Server      | Ansible, Ansible Semaphore |                                        |
