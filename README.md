@@ -39,13 +39,13 @@
 
 <h3>DevOps</h3>
 
-| Platform | Tools                      | Detail          |
-| -        | -                          |                 |
-| Server   | Ansible, Ansible Semaphore |                 |
-|          | Bash Script                |                 |
-|          | Docker                     |                 |
-|          | Security                   | Fail2Ban, Nginx |
-|          | Python                     |                 |
+| Platform | Tools                      | Detail                                 |
+| -        | -                          | -                                      |
+| Server   | Ansible, Ansible Semaphore |                                        |
+|          | Bash Script                |                                        |
+|          | Docker                     |                                        |
+|          | Security                   | Fail2Ban, Firewall, NodeJS, Nginx, SSH |
+|          | Python                     |                                        |
 
 - 💬 Ask me about **New project and anythin about technology**
 - 📫 How to reach me **adzhanfarhan@gmail.com**
