@@ -22,15 +22,15 @@
 | Platform    | Language      | Tech-Stack      | Tools                   | 
 | -           | -             | -               | -                       |
 | Desktop     | C#            | WPF             | Microsoft Visual Studio |
-|             | Python        | Tkinter         |                         |
+|             | Python        | Tkinter         | VS Code                 |
 | Mobile      | Kotlin        | Kotlin          | Android Studio          |
-|             | JavaScript    | React Native    |                         |
-| Web         | Java          | Spring Boot     |                         |
-|             | JavaScript    | ReactJS, NextJS |                         |
-|             | PHP           | Laravel         |                         |
-|             | Pyton         | Flask           |                         |
-| Database    | MySQL         |                 |                         |
-|             | PostgreSQL    |                 |                         |
+|             | JavaScript    | React Native    | VS Code                 |
+| Web         | Java          | Spring Boot     | Apache Maven            |
+|             | JavaScript    | ReactJS, NextJS | VS Code                 |
+|             | PHP           | Laravel         | VS Code                 |
+|             | Pyton         | Flask           | VS Code                 |
+| Database    | MySQL         |                 | VS Code                 |
+|             | PostgreSQL    |                 | VS Code                 |
 
 <h3>DevOps</h3>
 
