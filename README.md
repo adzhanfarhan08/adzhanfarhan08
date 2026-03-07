@@ -15,25 +15,33 @@
 - [Delete All Watch Later in Youtube](https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube)
 - [Password Generator](https://github.com/adzhanfarhan08/password-generator)
 
-<h2>Overview Skills</h2>
-
-<h3>Full-Stack</h3>
-
-| Platform    | Language      | Tech-Stack      | Tools                   | 
-| -           | -             | -               | -                       |
-| Desktop     | C#            | WPF             | Microsoft Visual Studio |
-|             | Python        | Tkinter         | VS Code                 |
-| Mobile      | Kotlin        | Kotlin          | Android Studio          |
-|             | JavaScript    | React Native    | VS Code                 |
-| Web         | Java          | Spring Boot     | Apache Maven            |
-|             | JavaScript    | ReactJS, NextJS | VS Code                 |
-|             | PHP           | Laravel         | VS Code                 |
-|             | Pyton         | Flask           | VS Code                 |
-| Database    | MySQL         |                 |                         |
-|             | PostgreSQL    |                 |                         |
+<h2>Reach Me</h2>
 
 - 💬 Ask me about **New project and anythin about technology**
 - 📫 How to reach me **adzhanfarhan@gmail.com**
+
+<h2>Overview Skills</h2>
+
+<h3>Full-Stacks</h3>
+
+<div align="center">
+  
+  | Platform    | Language      | Tech-Stack      | Tools                   | 
+  | -           | -             | -               | -                       |
+  | Desktop     | C#            | WPF             | Microsoft Visual Studio |
+  |             | Python        | Tkinter         | VS Code                 |
+  | Mobile      | Kotlin        | Kotlin          | Android Studio          |
+  |             | JavaScript    | React Native    | VS Code                 |
+  | Web         | Java          | Spring Boot     | Apache Maven            |
+  |             | JavaScript    | ReactJS, NextJS | VS Code                 |
+  |             | PHP           | Laravel         | VS Code                 |
+  |             | Pyton         | Flask           | VS Code                 |
+  | Database    | MySQL         |                 |                         |
+  |             | PostgreSQL    |                 |                         |
+  
+</div>
+
+<h3>Total Commits</h3>
 
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adzhanfarhan08&" alt="adzhanfarhan08" /></p>
