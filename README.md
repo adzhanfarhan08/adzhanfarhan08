@@ -5,16 +5,6 @@
   <img src="https://github.com/adzhanfarhan08/adzhanfarhan08/assets/141526468/897ae3bb-f643-42a1-a481-96b285e69736" width="400px">
 </div>
 
-<!--
-<h2>Product SaaS</h2>
-
-- [Forecast Management System](https://github.com/adzhanfarhan08/forecast-management-system)
--->
-<h2>Open Source Project</h2>
-
-- [Delete All Watch Later in Youtube](https://github.com/adzhanfarhan08/delete-all-watch-later-in-youtube)
-- [Password Generator](https://github.com/adzhanfarhan08/password-generator)
-
 <h2>Reach Me</h2>
 
 - 💬 Ask me about **New project and anythin about technology**
